@@ -35,6 +35,22 @@ It works by:
 O(n)
 ```
 
+## ⏱️ Time Complexity
+
+| Case | Complexity |
+|---|---|
+| Best Case | `O(n log n)` |
+| Average Case | `O(n log n)` |
+| Worst Case | `O(n²)` |
+
+## 💾 Space Complexity
+
+| Case | Complexity |
+|---|---|
+| Best Case | `O(log n)` |
+| Average Case | `O(log n)` |
+| Worst Case | `O(n)` |
+
 ## 💻 Language
 
 * C
