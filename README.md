@@ -34,22 +34,20 @@ It works by:
 ```text
 O(n)
 ```
+## ⚡ Quick Sort
 
-## ⏱️ Time Complexity
+Quick Sort is a **divide-and-conquer sorting algorithm** that selects an element as a **pivot** and rearranges the array so that elements smaller than the pivot are placed on one side and larger elements are placed on the other side. The process is then recursively repeated for both sides of the pivot.
 
-| Case | Complexity |
-|---|---|
-| Best Case | `O(n log n)` |
-| Average Case | `O(n log n)` |
-| Worst Case | `O(n²)` |
+### ⏱️ Complexity
 
-## 💾 Space Complexity
+**Time Complexity:**
+- Best Case: `O(n log n)`
+- Average Case: `O(n log n)`
+- Worst Case: `O(n²)`
 
-| Case | Complexity |
-|---|---|
-| Best Case | `O(log n)` |
-| Average Case | `O(log n)` |
-| Worst Case | `O(n)` |
+**Space Complexity:**
+- Best/Average Case: `O(log n)`
+- Worst Case: `O(n)`
 
 ## 💻 Language
 
